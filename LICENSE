@@ -1,0 +1,22 @@
+DeckerGUI — Proprietary License
+Copyright (c) 2026 ctaxnagomi / Wan Mohd Aziz bin Wan Hosen. All rights reserved.
+
+This repository distributes COMPILED, RUNNABLE DEMO ARTIFACTS of the DeckerGUI
+platform for evaluation purposes only.
+
+No license, express or implied, is granted to the source code, internal
+designs, data formats, protocols, or any other component of the DeckerGUI
+platform. Without prior written permission from the copyright holder, you may
+not:
+
+  - copy, modify, merge, publish, or create derivative works;
+  - reverse engineer, decompile, or disassemble the artifacts beyond what
+    applicable law permits;
+  - redistribute, sublicense, lease, or sell the artifacts;
+  - remove or alter this notice or any proprietary marking.
+
+The software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement.
+
+Source code is NOT included and is not licensed by this repository.
