@@ -6,6 +6,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-red)
+![owner](https://img.shields.io/badge/owner-Wan%20Mohd%20Aziz%20bin%20Wan%20Hosen-0A66C2)
+![publisher](https://img.shields.io/badge/publisher-CTECX%20Agentic%20Engineering%20Technologies%20%26%20Services%20PLT-6A5ACD)
 
 A runnable **Windows x64 demo** of the DeckerGUI ecosystem console.
 
@@ -72,6 +74,13 @@ The vendor inbox is then reachable at `http://<this-device>:3198/`.
 | Allowed | Everything else |
 | --- | --- |
 | `status`, `dock`, `hubnet`, `persona`, `afm` | refused (demo notice) |
+
+## Owner & Publisher
+
+- **Owner:** Wan Mohd Aziz bin Wan Hosen ([@ctaxnagomi](https://github.com/ctaxnagomi))
+- **Publisher:** CTECX Agentic Engineering Technologies & Services PLT
+
+© 2026 Wan Mohd Aziz bin Wan Hosen. Published by CTECX Agentic Engineering Technologies & Services PLT. All rights reserved.
 
 ## License
 
