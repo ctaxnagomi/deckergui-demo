@@ -82,7 +82,7 @@ The vendor inbox is then reachable at `http://<this-device>:3198/`.
 - **Publisher:** CTECX Agentic Engineering Technologies & Services PLT — ctecx_dgui@deckergui.my
 - **Sponsor:** [GitHub Sponsors](https://github.com/sponsors/ctaxnagomi)
 
-<iframe src="https://github.com/sponsors/ctaxnagomi/button" title="Sponsor ctaxnagomi" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 © 2026 Wan Mohd Aziz bin Wan Hosen. Published by CTECX Agentic Engineering Technologies & Services PLT. All rights reserved.
 
