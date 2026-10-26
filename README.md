@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=node.js&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-red)
-![owner](https://img.shields.io/badge/owner-Wan%20Mohd%20Aziz%20bin%20Wan%20Hosen-0A66C2)
+![owner](https://img.shields.io/badge/owner-Wan%20Mohd%20Azizi%20bin%20Wan%20Hosen-0A66C2)
 ![publisher](https://img.shields.io/badge/publisher-CTECX%20Agentic%20Engineering%20Technologies%20%26%20Services%20PLT-6A5ACD)
 [![Sponsor](https://img.shields.io/badge/sponsor-ctaxnagomi-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ctaxnagomi)
 
